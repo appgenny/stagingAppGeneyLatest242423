@@ -1,7 +1,7 @@
 var utility = (function() {
   return {
     base_url: "http://staging.appgenny.com/",
-    base_url_api: "http://stagingapi.appgenny.com/api/vi/",
+    base_url_api: "http://staging.api.appgenny.com/api/vi/",
     base_url_api2: "http://staging.api.appgenny.com/api/v1/",
     get_application_setting: "GetApplicationSetting/PakegName?pakgeName=",
     get_feature_App: "GetFeatureApp/PakegName?pakgeName=",
