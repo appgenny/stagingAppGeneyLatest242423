@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?> 
-<widget id="com.newapp.asha" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0"> 
-<name>Asha Bhosle Hit Songs</name> 
+<widget id="com.kidzezone.poemforkids" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0"> 
+<name>Poem For Kids </name> 
  <author email="umardraz651@gmail.com" href="http://cordova.io">umar draz</author> 
  <icon src="www/img/icon.png" /> 
  <content src="index.html" /> 
@@ -34,10 +34,10 @@
 <preference name="android-build-tool" value="gradle" /> 
 <preference name="StatusBarOverlaysWebView" value="true" /> 
 <preference name="postRows" value="2" />  
-<preference name="onesignal" value="9dbb1b43-fda6-4096-8a35-465eaa9008ec" />
-<preference name="admobBannerId" value="ca-app-pub-3940256099942544/6300978111" />
-<preference name="admobInterstitialId" value="ca-app-pub-3940256099942544/1033173712" />
-<preference name="admobAppId" value="ca-app-pub-2712145761453335~5502863778" />
+<preference name="onesignal" value="4ed81e3d-c252-4c56-8a5f-44ad1edf5261" />
+<preference name="admobBannerId" value="ca-app-pub-1441176907895582/2645266484" />
+<preference name="admobInterstitialId" value="ca-app-pub-1441176907895582/9426652479" />
+<preference name="admobAppId" value="ca-app-pub-1441176907895582~3256772470" />
 <preference name="SplashScreenDelay" value="4000" /> 
 <preference name="SplashMaintainAspectRatio" value="true" /> 
 <preference name="ShowSplashScreenSpinner" value="false" /> 
